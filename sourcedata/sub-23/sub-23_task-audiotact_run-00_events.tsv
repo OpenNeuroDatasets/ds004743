@@ -1,0 +1,13 @@
+onset	duration	trial_type	expected_response	given_response	response_time
+ 0.000	 2.700	Start	0	0	 0.000
+ 2.700	 0.675	On	0	0	 0.000
+ 3.375	 0.675	Cue	0	0	 0.000
+ 4.050	 3.712	ISI	0	0	 0.000
+ 7.762	 2.700	A_rough	0	0	 0.000
+ 10.462	 1.687	ISI	0	0	 0.000
+ 12.149	 2.700	A_rough	0	0	 0.000
+ 14.849	 2.364	ISI	0	0	 0.000
+ 17.213	 2.700	A_smooth	0	0	 0.000
+ 19.913	 2.362	ISI	0	0	 0.000
+ 22.275	 2.700	A_smooth	0	0	 0.000
+ 24.975	 3.038	ISI	0	0	 0.000

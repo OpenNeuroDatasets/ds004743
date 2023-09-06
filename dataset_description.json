@@ -1,0 +1,24 @@
+{
+    "Name": "AudioTact_YA",
+    "BIDSVersion": "1.0.2",
+    "License": "CC BY 4.0 :You can share, copy and modify this dataset so long as you give appropriate credit, provide a link to the CC BY license, and indicate if changes were made, but you may not do so in a way that suggests the rights holder has endorsed you or your use of the dataset. Note that further permission may be required for any content within the dataset that is identified as belonging to a third party.",
+    "Authors": [
+        "Anne Kavounoudias",
+        "Caroline Landelle",
+        "Jeremy Dana",
+        "Bruno Nazarian",
+        "Julien Sein",
+        "Jean-Luc Anton",
+        "Laurent Pruvost",
+        "Frederic Giraud",
+        "Olivier Felician"
+    ],
+    "Acknowledgements": "say here what are your acknowledgments",
+    "HowToAcknowledge": "say here how you would like to be acknowledged",
+    "Funding": [
+        "list your funding sources"
+    ],
+    "ReferencesAndLinks": [
+        "Landelle, Caroline (2023), “Brain fMRI during audio tactile stimuli”, Mendeley Data, V1, doi: 10.17632/ny367697s2.1"
+    ]
+}
